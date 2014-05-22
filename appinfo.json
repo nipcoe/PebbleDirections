@@ -1,0 +1,17 @@
+{
+  "uuid": "ab457116-2823-4189-9b18-980eae57f301",
+  "shortName": "directions",
+  "longName": "directions",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
